@@ -1,0 +1,9 @@
+dont use EU as an example for job tracking
+	status's are different now in rw
+
+examine monthly billing process - maybe automate a few steps
+
+validate file and report on invalids
+
+
+
